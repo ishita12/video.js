@@ -21,7 +21,7 @@ import {NORMAL as TRACK_TYPES} from '../tracks/track-types';
  * @extends Tech
  */
 class Html5 extends Tech {
-#testing
+//testing
  /**
   * Create an instance of this Tech.
   *
